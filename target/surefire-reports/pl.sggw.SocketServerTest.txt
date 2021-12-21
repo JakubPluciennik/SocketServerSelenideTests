@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.sggw.SocketServerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 50.331 s - in pl.sggw.SocketServerTest
